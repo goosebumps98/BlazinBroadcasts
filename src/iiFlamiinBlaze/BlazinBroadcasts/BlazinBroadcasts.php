@@ -30,7 +30,7 @@ use pocketmine\utils\TextFormat;
 class BlazinBroadcasts extends PluginBase{
 
 	const VERSION = "v1.0.3";
-	const PREFIX = TextFormat::AQUA . "BlazinBroadcasts" . TextFormat::GOLD . " > ";
+	const PREFIX = TextFormat::AQUA . "§l§5AsylumPE §4>>§r" . TextFormat::GOLD . " > ";
 
 	/** @var self $instance */
 	private static $instance;
